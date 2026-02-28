@@ -23,9 +23,19 @@
 
 ## 文件清单
 
-- `gastric_hypothesis.tex` — LaTeX 主文件
+- `gastric_hypothesis.tex` — LaTeX 主文件（带作者信息，自留）
+- `gastric_hypothesis_anonymous.tex` — **匿名稿**（审稿用，无姓名/单位/邮箱）
 - `gastric_hypothesis.bib` — 参考文献
-- `gastric_hypothesis.pdf` — 编译后的 PDF（用于投稿）
+- `Zhu_Extreme_Low_fat_Diet_Gastric_Diseases_Japan.pdf` — 带作者信息的完整 PDF（自留或 Title Page 用）
+- **Manuscript File 上传用**：用 `gastric_hypothesis_anonymous.tex` 编译出的 **匿名 PDF**
+
+## 满足双盲审稿的修改清单
+
+| 项目 | 做法 |
+|------|------|
+| **Manuscript File 标红** | 上传 **匿名稿 PDF**（用 `gastric_hypothesis_anonymous.tex` 在 Overleaf 编译，下载 PDF）。该稿仅含 "Author" 和 "Author's institution"，无姓名、邮箱、单位。 |
+| **CRediT 标红** | 在投稿系统的 **Manuscript Data** 步骤里找到 CRediT / Author contributions，用系统表单勾选 Conceptualization, Writing - original draft, Writing - review & editing；若必须上传文件，再上传 CRediT 的 PDF。 |
+| **匿名稿编译** | 将 `gastric_hypothesis_anonymous.tex` 与 `gastric_hypothesis.bib` 一起上传 Overleaf，编译后下载 PDF，作为 **Manuscript File** 上传。 |
 
 ## 投稿步骤
 
