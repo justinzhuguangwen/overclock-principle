@@ -9,7 +9,7 @@
 | 出版商 | Elsevier (荷兰) |
 | 影响因子 | ~2.6-3.0 |
 | 审稿周期 | 4-8 周 |
-| 投稿网址 | https://www.editorialmanager.com/mehy |
+| 投稿系统（在此注册并投稿） | https://www.editorialmanager.com/ymehy/default.aspx |
 | 期刊主页 | https://www.sciencedirect.com/journal/medical-hypotheses |
 
 ## 论文信息
@@ -29,8 +29,8 @@
 
 ## 投稿步骤
 
-1. 访问 https://www.editorialmanager.com/mehy
-2. 注册/登录账户
+1. 访问 **https://www.editorialmanager.com/ymehy/default.aspx**（注意是 ymehy 不是 mehy）
+2. 点击 "Register" 注册新账户，或 "Login" 登录
 3. 选择 Article Type: "Hypothesis"
 4. 上传 PDF 或 LaTeX 源文件
 5. 填写作者信息、摘要、关键词
