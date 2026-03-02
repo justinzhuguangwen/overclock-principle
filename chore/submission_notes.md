@@ -68,11 +68,18 @@
 
 ---
 
-## 已投稿记录
+## 投稿/发布记录
 
-| 期刊 | 投稿日期 | 稿件号 | 结果 | 说明 |
-|------|----------|--------|------|------|
+| 平台/期刊 | 日期 | 编号 | 状态 | 说明 |
+|----------|------|------|------|------|
+| **Preprints.org** | 2026-03-02 | ID: 200996 | **Pending Check** | 等待审核，通过后获得 Crossref DOI |
 | Medical Hypotheses (Elsevier) | 2026-02-28 | YMEHY-D-26-00280 | **Reject** (2026-03-01) | Priority reject，编辑认可假说新颖但因投稿量大做优先级筛选 |
+
+## 下一步
+
+- [ ] 等 Preprints.org 审核通过，获取 DOI
+- [ ] DOI 到手后，选择免 APC 期刊正式投稿（Annals of Gastroenterology 或 JGLD）
+- [ ] 投稿时在 cover letter 中注明预印本 DOI
 
 ---
 
